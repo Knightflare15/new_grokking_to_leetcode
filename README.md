@@ -28,7 +28,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] Solved
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [x] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
 
@@ -45,17 +45,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [x] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
