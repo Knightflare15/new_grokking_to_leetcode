@@ -45,17 +45,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Two Pointers
-- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-- [x] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
 
-- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-- [x] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
 
-- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
-- [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
