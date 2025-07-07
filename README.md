@@ -81,7 +81,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [x] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
 - [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 
