@@ -63,9 +63,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+- [x] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
