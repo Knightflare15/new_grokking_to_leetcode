@@ -145,7 +145,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
