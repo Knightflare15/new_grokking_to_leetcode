@@ -189,7 +189,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
-- [ ] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+- [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 - [x] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
