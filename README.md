@@ -185,13 +185,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Word Search](https://leetcode.com/problems/word-search/)
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
 - [ ] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
-- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [x] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
