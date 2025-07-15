@@ -199,15 +199,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Dynamic Programming
 
-- [ ] [0/1 Knapsack]()?
+- [x] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 - [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
