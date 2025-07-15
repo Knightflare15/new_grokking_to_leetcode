@@ -187,15 +187,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 
-- [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+- [x] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
 - [x] [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 
 - [x] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
-- [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [x] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
-- [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+- [x] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
 ## Dynamic Programming
 
