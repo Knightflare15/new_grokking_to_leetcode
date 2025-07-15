@@ -183,7 +183,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Backtracking
 
-- [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
+- [x] [N-Queens](https://leetcode.com/problems/n-queens/)
 
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
 
