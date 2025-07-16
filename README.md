@@ -219,7 +219,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
