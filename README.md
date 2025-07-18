@@ -215,7 +215,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Word Break](https://leetcode.com/problems/word-break/)
 
-- [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
+- [x] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
