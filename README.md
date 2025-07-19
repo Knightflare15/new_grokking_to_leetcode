@@ -223,7 +223,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 
-- [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
