@@ -217,7 +217,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
-- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
@@ -227,7 +227,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
-- [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+- [x] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
