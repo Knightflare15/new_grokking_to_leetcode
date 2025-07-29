@@ -235,11 +235,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
-- [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [x] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
+- [x] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
 
 - [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
