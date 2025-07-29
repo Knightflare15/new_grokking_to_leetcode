@@ -241,7 +241,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [x] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
 
-- [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
+- [x] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ## Topological Sort
 
